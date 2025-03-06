@@ -1,0 +1,9 @@
+.style{
+   margin-left: 20px;
+   width: 70px;
+   border: solid 1px gray ;
+   color:gray;
+   background-color: transparent;
+   box-shadow: 0 0 3px;
+   border-radius: 5px;
+}
